@@ -27,6 +27,10 @@ body {
   color: hsl(228, 45%, 44%);
 }
 
+.attribution a:hover { 
+  color: hsl(218, 44%, 22%);
+}
+
 .content {
   width: 340px;
   padding: 20px;
@@ -47,6 +51,7 @@ body {
 .content h2 {
   margin-top: 20px;
   width: 300px;
+  color: hsl(218, 44%, 22%);
 }
 
 .content p {
